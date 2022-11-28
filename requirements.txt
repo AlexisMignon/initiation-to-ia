@@ -6,5 +6,5 @@ optuna
 catboost
 category_encoders
 
-jupyter
-jupyter_contrib_nbextensions
+#jupyter
+#jupyter_contrib_nbextensions
